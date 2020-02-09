@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1581265990544" clover="3.2.0">
+  <project timestamp="1581265990544" name="All files">
+    <metrics statements="70" coveredstatements="70" conditionals="24" coveredconditionals="24" methods="28" coveredmethods="28" elements="122" coveredelements="122" complexity="0" loc="70" ncloc="70" packages="1" files="2" classes="2"/>
+    <file name="tree.js" path="G:\code_paradise\git\trie\src\tree.js">
+      <metrics statements="33" coveredstatements="33" conditionals="10" coveredconditionals="10" methods="20" coveredmethods="20"/>
+      <line num="3" count="20" type="stmt"/>
+      <line num="4" count="20" type="stmt"/>
+      <line num="8" count="5" type="stmt"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="16" count="22" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="24" count="3" type="stmt"/>
+      <line num="28" count="15" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="33" count="2" type="stmt"/>
+      <line num="35" count="2" type="stmt"/>
+      <line num="36" count="2" type="stmt"/>
+      <line num="37" count="2" type="stmt"/>
+      <line num="38" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="41" count="1" type="stmt"/>
+      <line num="45" count="16" type="cond" truecount="2" falsecount="0"/>
+      <line num="47" count="15" type="cond" truecount="2" falsecount="0"/>
+      <line num="48" count="9" type="stmt"/>
+      <line num="49" count="9" type="stmt"/>
+      <line num="52" count="6" type="stmt"/>
+      <line num="56" count="1" type="stmt"/>
+      <line num="60" count="1" type="stmt"/>
+      <line num="64" count="1" type="stmt"/>
+      <line num="70" count="1" type="stmt"/>
+      <line num="74" count="1" type="stmt"/>
+      <line num="78" count="1" type="stmt"/>
+      <line num="82" count="1" type="stmt"/>
+      <line num="86" count="1" type="stmt"/>
+      <line num="92" count="1" type="stmt"/>
+      <line num="98" count="2" type="stmt"/>
+      <line num="102" count="1" type="stmt"/>
+      <line num="106" count="1" type="stmt"/>
+    </file>
+    <file name="trie.js" path="G:\code_paradise\git\trie\src\trie.js">
+      <metrics statements="37" coveredstatements="37" conditionals="14" coveredconditionals="14" methods="8" coveredmethods="8"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="10" count="3" type="stmt"/>
+      <line num="16" count="4" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="32" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="36" count="2" type="stmt"/>
+      <line num="46" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="47" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="49" count="2" type="stmt"/>
+      <line num="50" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="51" count="3" type="stmt"/>
+      <line num="55" count="2" type="stmt"/>
+      <line num="59" count="1" type="stmt"/>
+      <line num="60" count="1" type="stmt"/>
+      <line num="67" count="1" type="stmt"/>
+      <line num="68" count="1" type="stmt"/>
+      <line num="70" count="1" type="stmt"/>
+      <line num="72" count="1" type="stmt"/>
+      <line num="74" count="5" type="stmt"/>
+      <line num="75" count="5" type="stmt"/>
+      <line num="77" count="5" type="stmt"/>
+      <line num="78" count="5" type="stmt"/>
+      <line num="80" count="5" type="stmt"/>
+      <line num="81" count="13" type="stmt"/>
+      <line num="82" count="13" type="stmt"/>
+      <line num="83" count="13" type="stmt"/>
+      <line num="87" count="1" type="stmt"/>
+      <line num="91" count="13" type="stmt"/>
+      <line num="92" count="13" type="cond" truecount="2" falsecount="0"/>
+      <line num="93" count="5" type="stmt"/>
+      <line num="94" count="5" type="stmt"/>
+      <line num="96" count="8" type="stmt"/>
+    </file>
+  </project>
+</coverage>
